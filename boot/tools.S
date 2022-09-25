@@ -168,7 +168,7 @@ BEGIN_FUNC(invalidate_cache_all)
 	subs    w7, w7, w13             // decrement set number
 	b.ge    .Lloop3_inv_cache
 
-	subs    w9, w9, w12             // decrement way number
+	subs    x9, x9, x12             // decrement way number
 	b.ge    .Lloop2_inv_cache
 .Lskip_inv_cache:
 	add     w10, w10, #2            // increment 2x cache level
