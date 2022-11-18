@@ -1,4 +1,6 @@
-# ChCore
+# ChCore Lab
+
+**There is a new version of ChCore Lab, please check it out [here](https://gitee.com/ipads-lab/chcore-lab-v2).**
 
 This is the repository of ChCore labs in SE315, 2020 Spring.
 
