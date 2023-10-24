@@ -1,6 +1,6 @@
 # ChCore Lab
 
-**There is a new version of ChCore Lab, please check it out [here](https://gitee.com/ipads-lab/chcore-lab-v2).**
+**新版本课程实验+配套视频讲解，请访问[这里](https://github.com/SJTU-IPADS/OS-Course-Lab).**
 
 This is the repository of ChCore labs in SE315, 2020 Spring.
 
